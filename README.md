@@ -19,7 +19,7 @@
 Tags: {
   "languages": [ "Javascript", "Java", "C#", "Object-C", "PHP", "HTML5", "CSS3" ],
   "js-frameworks": [ "AngularJS", "React", "VueJS", "Svelte", "EmberJS" ],
-  "automated-testings": [ "Mocha", "Cypress", "Selenium" ]
+  "automated-testings": [ "Mocha", "Cypress", "Selenium" ],
   "Databases": [ "SQL", "Hibernate", "MongoDB", "LotusNotes" ],
   "cloud": [ "AWS", "Azure", "Heroku", "Openshift" ],
   "other-tech": [ "Node.js", "MAMP", "Silverstripe", "Wordpress", "Dockers" ],
