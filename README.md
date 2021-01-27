@@ -1,6 +1,6 @@
 # Oded Sharon
 
-![That's me!](https://github.com/odedshr/odedshr/blob/main/images/profile-image.jpg)
+![That's me!](https://github.com/odedshr/odedshr/blob/main/images/profile-pic.jpg)
 
 ## 🏠 Where to find me
 
@@ -17,14 +17,14 @@
 ## 🐝  Buzzwords that recruiters like
 ```json
 Tags: {
-  Languages: [ Javascript, Java, C#, Object-C, PHP, HTML5, CSS3 ],
-  JSFrameworks: [ AngularJS, React, VueJS, Svelte, EmberJS ],
-  AutomatedTestings: [ mocha, cypress, selenium ]
-  Databases: [ sqlQueries, hibernate, mongoDB ],
-  Cloud: [ AWS, Azure, Heroku, Openshift ],
-  Technologies: [ Node.js, Fullstack, Angular, Ember, wordpress ],
-  ProductManagement: [ analyze, define, wire framing, mockUps, proofOfConcept, demos, presentations ],
-  WorkProcedeures: [ Agile, Scrum, Kanban, waterfalls ]
+  "languages": [ "Javascript", "Java", "C#", "Object-C", "PHP", "HTML5", "CSS3" ],
+  "js-frameworks": [ "AngularJS", "React", "VueJS", "Svelte", "EmberJS" ],
+  "automated-testings": [ "Mocha", "Cypress", "Selenium" ]
+  "Databases": [ "SQL", "Hibernate", "MongoDB", "LotusNotes" ],
+  "cloud": [ "AWS", "Azure", "Heroku", "Openshift" ],
+  "other-tech": [ "Node.js", "MAMP", "Silverstripe", "Wordpress", "Dockers" ],
+  "product-management": [ "analyze", "define", "wire framing", "mockUps", "proo-of-concept", "demos", "presentations" ],
+  "work-procedeures": [ "Agile", "Scrum", "Kanban", "waterfalls", "code-peer-reviews" ]
 }
 ```
 
@@ -38,7 +38,7 @@ Tags: {
 Development and maintenance of various projects for different clients (various JS Frameworks)
 Front-End development of a government project using Angular 8
 
-### enior Software development Engineer at **Ticketsolve**
+### Senior Software development Engineer at **Ticketsolve**
 
 ![Ticketsolve](https://github.com/odedshr/odedshr/blob/main/images/ticketsolve.jpg)
 
