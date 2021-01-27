@@ -120,7 +120,7 @@ For the latest projects, check out my github or blog, but here are two nice old 
 A mobile app for helping farmers monitor farm tasks by providing reminders, statistical analyses, knowledge sharing and social interactions.
 I developed the application for the iPhone platform using Objective-C and produced an accompanying promotional website and [video](http://tinyurl.com/agrolog).
 
-[![Agrolog Screenshot](https://github.com/odedshr/odedshr/blob/main/images/argolog-screenshot.jpg)](https://vimeo.com/48858975 "UX in 2020")
+[![Agrolog Screenshot](https://github.com/odedshr/odedshr/blob/main/images/agrolog-screenshot.jpg)](https://vimeo.com/48858975 "UX in 2020")
 
 ### NekudaPsik: UX in 2020 video (2009)
 
